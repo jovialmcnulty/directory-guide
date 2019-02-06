@@ -2,7 +2,7 @@
 
 This repository serves as a layout guide for installing packages on the jen machine, allowing us stay organized with consistent structure.
 
-As of the writing of this README, the following structure is observed (using `tree -L ~/`)
+ As of the writing of this README, the following structure is observed (using `tree -L 3 ~/`)
 
 ```
 .
